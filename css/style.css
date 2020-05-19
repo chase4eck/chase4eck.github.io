@@ -52,13 +52,7 @@ span {
   margin-top: 50px;
   margin-left: 70px;
 
-  border-left-width: 5px;
-  border-right-width: 20px;
-  border-color: red;
-  border-style: solid;
-  border-top-color: green;
-  border-top-width: 10px;
-  border-top-style: ridge;
+
 
   padding: 200px 120px 200px 40px;
       /*   top  right bottom left */
