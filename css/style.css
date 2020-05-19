@@ -1,18 +1,10 @@
 body {
-  background-color: #000;
   color: white;
 }
 
 p {
-  color: red;
-}
 
-h1 {
-  font-size: 70px;
-  color: blue;
-  width: 317px;
 }
-
 
 /* this is a css comment */
 /* this is the css box model (3 parts)*/
@@ -36,10 +28,19 @@ h1 {
 
 
   padding: 0px 3000px 1000px 0px;
+      /*   top  right bottom left */
+      }
+
+.title {
+  font-size: 70px;
+  color: blue;
+  width: 2000px;
+      }
+
+a {
+  color: blue;
+
 }
-
-
-
 
 
 
