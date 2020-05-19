@@ -7,31 +7,11 @@ p {
   color: red;
 }
 
-.intro{
-  font-size: 30px;
-  color: blue;
-}
-
 h1 {
   font-size: 70px;
   color: blue;
 }
 
-.highlight{
-  color: yellow;
-}
-
-.accentcolor{
-  color: blue;
-}
-
-span {
-  font-weight: bold;
-}
-
-.top-section {
-  color: green;
-}
 
 /* this is a css comment */
 /* this is the css box model (3 parts)*/
