@@ -21,15 +21,22 @@ p {
   background-image: url(https://user-images.githubusercontent.com/60234990/82270385-a4ccd500-9942-11ea-8a45-75ffba9f25b7.jpeg);
   /*background-repeat:  repeat-x, repeat-y, no-repeat */
   width: 300px;
-
   margin-top: 50px;
   margin-left: 70px;
-
-
-
   padding: 0px 3000px 1000px 0px;
       /*   top  right bottom left */
       }
+
+.about {
+  background-image: url(https://user-images.githubusercontent.com/60234990/82387500-3735ad00-9a05-11ea-96f2-3c7a1a8d7694.jpeg);
+  /*background-repeat:  repeat-x, repeat-y, no-repeat */
+  width: 300px;
+  margin-top: 50px;
+  margin-left: 70px;
+  padding: 0px 3000px 1000px 0px;
+      /*   top  right bottom left */
+      }
+
 
 .title {
   font-size: 70px;
