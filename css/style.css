@@ -1,0 +1,85 @@
+body {
+  background-color: #000;
+  color: white;
+}
+
+p {
+  color: red;
+}
+
+.intro{
+  font-size: 30px;
+  color: blue;
+}
+
+h1 {
+  font-size: 70px;
+  color: blue;
+}
+
+.highlight{
+  color: yellow;
+}
+
+.accentcolor{
+  color: blue;
+}
+
+span {
+  font-weight: bold;
+}
+
+.top-section {
+  color: green;
+}
+
+/* this is a css comment */
+/* this is the css box model (3 parts)*/
+
+
+/* Margin: empty space outside of box, not including background
+   Border: self-explanatory
+   Padding: empty space inside of border, including background
+
+   all of these ADD on top of width and height
+   */
+
+.box {
+  background-image: url(https://user-images.githubusercontent.com/60234990/82270385-a4ccd500-9942-11ea-8a45-75ffba9f25b7.jpeg);
+  background-repeat: /* repeat-x, repeat-y, no-repeat */
+  width: 300px;
+
+  margin-top: 50px;
+  margin-left: 70px;
+
+  border-left-width: 5px;
+  border-right-width: 20px;
+  border-color: red;
+  border-style: solid;
+  border-top-color: green;
+  border-top-width: 10px;
+  border-top-style: ridge;
+
+  padding: 200px 120px 200px 40px;
+      /*   top  right bottom left */
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* uh */
