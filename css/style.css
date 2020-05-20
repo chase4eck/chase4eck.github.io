@@ -6,42 +6,30 @@ p {
 
 }
 
-/* this is a css comment */
-/* this is the css box model (3 parts)*/
-
-
-/* Margin: empty space outside of box, not including background
-   Border: self-explanatory
-   Padding: empty space inside of border, including background
-
-   all of these ADD on top of width and height
-   */
-
 .box {
   background-image: url(https://user-images.githubusercontent.com/60234990/82270385-a4ccd500-9942-11ea-8a45-75ffba9f25b7.jpeg);
-  /*background-repeat:  repeat-x, repeat-y, no-repeat */
-  width: 300px;
+  background-size: 500px;
   margin-top: 50px;
   margin-left: 70px;
-  padding: 0px 3000px 1000px 0px;
+  padding: 0px 0px 1140px 0px;
       /*   top  right bottom left */
-      }
+}
 
 .about {
-  background-image: url(https://user-images.githubusercontent.com/60234990/82387500-3735ad00-9a05-11ea-96f2-3c7a1a8d7694.jpeg);
-  /*background-repeat:  repeat-x, repeat-y, no-repeat */
-  width: 300px;
+  background-image: url(https://user-images.githubusercontent.com/60234990/82502666-a70b6c80-9ac5-11ea-8b31-26a63a92a71d.JPG);
+  background-size: 500px;
   margin-top: 50px;
   margin-left: 70px;
-  padding: 0px 3000px 1000px 0px;
-      /*   top  right bottom left */
-      }
+  padding: 0px 0px 1140px 0px;
+}
+
+
 
 
 .title {
   font-size: 70px;
   color: blue;
-  width: 2000px;
+  width: 1200px;
       }
 
 a {
