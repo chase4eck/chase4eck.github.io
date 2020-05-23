@@ -24,8 +24,6 @@ p {
 }
 
 
-
-
 .title {
   font-size: 70px;
   color: white;
@@ -37,6 +35,14 @@ a {
 
 }
 
+.contactinfo {
+  font-size: 50px;
+}
+
+.contactheader {
+  font-size: 21px;
+}
+
 .linkbox {
   color: white;
   text-decoration: none;
@@ -44,15 +50,3 @@ a {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-/* uh */
