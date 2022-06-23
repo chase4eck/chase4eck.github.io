@@ -2,9 +2,6 @@ body {
   color: white;
 }
 
-p {
-
-}
 
 .box {
   background-image: url(https://user-images.githubusercontent.com/60234990/175371298-96b3e91a-be75-42f1-871e-7542bb23cdeb.jpeg);
@@ -49,7 +46,7 @@ p {
   width: 1200px;
       }
 
-a {
+p {
   color: orange;
   font-size: 100px;
 
